@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602145951200",
+    "firebase_url": "https://queue-46be6.firebaseio.com",
+    "project_id": "queue-46be6",
+    "storage_bucket": "queue-46be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602145951200:android:b52978cd548beec7",
+        "android_client_info": {
+          "package_name": "com.example.queue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602145951200-3t7meapqgrm0hgk7f3timmfu4num57nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9lwU5KTQaznjm49-KVYqqB4P_b0rGC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602145951200-3t7meapqgrm0hgk7f3timmfu4num57nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

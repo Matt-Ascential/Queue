@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">602145951200-3t7meapqgrm0hgk7f3timmfu4num57nd.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://queue-46be6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">602145951200</string>
+    <string name="google_api_key" translatable="false">AIzaSyAd9lwU5KTQaznjm49-KVYqqB4P_b0rGC8</string>
+    <string name="google_app_id" translatable="false">1:602145951200:android:b52978cd548beec7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAd9lwU5KTQaznjm49-KVYqqB4P_b0rGC8</string>
+    <string name="google_storage_bucket" translatable="false">queue-46be6.appspot.com</string>
+    <string name="project_id" translatable="false">queue-46be6</string>
+</resources>
